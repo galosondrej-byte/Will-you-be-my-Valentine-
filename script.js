@@ -59,7 +59,7 @@ const messages = [
     "Think about it again...",
     "If you say yes, I'll buy you that book you've been wanting! 📚",
     "I'll literally clear your whole book wishlist, I promise!",
-    "Cherry, please don't do this to me... 🍒",
+    "Cherry, please don't do this to me... ",
     "I will be very, very, very sad...",
     "Okay fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
